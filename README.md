@@ -22,7 +22,7 @@ TODO:
 [ ] add RLTO email
 [ ] add air quality reading at time of filter changing
 [ ] add doctor notes
-[ ] add cough log
+[x] add cough log
 [x] add cough app logs
 [ ] add texts about roaches
 [x] recording of call with Tim

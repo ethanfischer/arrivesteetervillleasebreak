@@ -25,3 +25,4 @@ TODO:
 [ ] add cough log
 [ ] add cough app logs
 [ ] add texts about roaches
+[x] recording of call with Tim

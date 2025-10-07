@@ -15,7 +15,7 @@ _____________________
 
 
 TODO:
-[ ] add video of maintenance guy without mask
+[x] add video of maintenance guy without mask
 [ ] add all work orders submitted
 [ ] add all emails with arrive about roaches
 [ ] add all emails with arrive about mold
@@ -23,6 +23,6 @@ TODO:
 [ ] add air quality reading at time of filter changing
 [ ] add doctor notes
 [ ] add cough log
-[ ] add cough app logs
+[x] add cough app logs
 [ ] add texts about roaches
 [x] recording of call with Tim

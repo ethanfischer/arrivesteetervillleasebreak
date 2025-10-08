@@ -43,8 +43,7 @@ The tenant believes this position is unreasonable and potentially unenforceable 
 *All referenced emails, photos, and recordings are available in this repository for verification and legal review.*
 
 
-
-# Breaking Arrive Streeterville Lease
+## Misc notes
 
 Tuesday, Oct 7, 2025
 

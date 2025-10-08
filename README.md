@@ -12,9 +12,9 @@ This repository documents the tenant's effort to terminate their lease with Arri
 - **Lease Agreement**: [`lease.pdf`](./lease.pdf)
 
 **Dispute Overview**  
-The tenant is seeking early termination of the lease based on ongoing cockroach infestations, confirmed mold contamination in the HVAC system, and unsatisfactory responses by management.  
+I am seeking early termination of the lease based on ongoing cockroach infestations, confirmed mold contamination in the HVAC system, and unsatisfactory responses by management.  
 The landlord has stated that the only option for early termination is to provide 60 days’ notice and pay an additional two months’ rent (four months total liability).  
-The tenant believes this position is unreasonable and potentially unenforceable due to habitability violations under the **Chicago Residential Landlord and Tenant Ordinance (RLTO)**.
+I believe this position is unreasonable and potentially unenforceable due to habitability violations under the **Chicago Residential Landlord and Tenant Ordinance (RLTO)**.
 
 ---
 

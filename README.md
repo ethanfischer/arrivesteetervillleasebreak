@@ -17,10 +17,10 @@ _____________________
 TODO:
 [x] add video of maintenance guy without mask
 [x] add all work orders submitted
-[ ] add all emails with arrive about roaches
-[ ] add all emails with arrive about mold
-[ ] add doctor notes
-[ ] add lease
+[x] add all emails with arrive about roaches
+[x] add all emails with arrive about mold
+[x] add doctor notes
+[x] add lease
 [x] add RLTO email
 [x] add air quality reading at time of filter changing
 [x] add cough log

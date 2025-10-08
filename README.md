@@ -19,9 +19,10 @@ TODO:
 [x] add all work orders submitted
 [ ] add all emails with arrive about roaches
 [ ] add all emails with arrive about mold
+[ ] add doctor notes
+[ ] add lease
 [x] add RLTO email
 [x] add air quality reading at time of filter changing
-[ ] add doctor notes
 [x] add cough log
 [x] add cough app logs
 [x] add texts about roaches

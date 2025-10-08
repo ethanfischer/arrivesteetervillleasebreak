@@ -16,13 +16,13 @@ _____________________
 
 TODO:
 [x] add video of maintenance guy without mask
-[ ] add all work orders submitted
+[x] add all work orders submitted
 [ ] add all emails with arrive about roaches
 [ ] add all emails with arrive about mold
-[ ] add RLTO email
-[ ] add air quality reading at time of filter changing
+[x] add RLTO email
+[x] add air quality reading at time of filter changing
 [ ] add doctor notes
 [x] add cough log
 [x] add cough app logs
-[ ] add texts about roaches
+[x] add texts about roaches
 [x] recording of call with Tim

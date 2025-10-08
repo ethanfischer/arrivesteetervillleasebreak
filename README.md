@@ -8,7 +8,7 @@ This repository documents the tenant's effort to terminate their lease with Arri
 
 **Parties & Premises**  
 - **Tenant**: Ethan Fischer  
-- **Landlord/Agents**: Arrive Streeterville / Trinity Property Management (contacts include Tim Cherwin, Lindsay Konrady, and wpelissier@trinity-pm.com)  
+- **Landlord/Agents**: Arrive Streeterville / Trinity Property Management (contacts include Tim Cherwin, Lindsay Konrady, Whitney Pelissier, and Natalie Sannicandro)  
 - **Lease Agreement**: [`lease.pdf`](./lease.pdf)
 
 **Dispute Overview**  

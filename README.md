@@ -28,7 +28,7 @@ I believe this position is unreasonable and potentially unenforceable due to hab
 | **~Aug 19, 2025** | Maintenance staff inspected and stated it was not mold. |
 | **Aug 19, 2025** | Tenant emailed **wpelissier@trinity-pm.com** and **arrivestreeterville@trinity-pm.com** citing RLTO and requesting remediation within 14 days. (See `Gmail - Habitability Concerns – Request for Remedy.pdf`) |
 | **Aug 25, 2025** | **MoldMan** professional inspection conducted. |
-| **Aug 28, 2025** | MoldMan emailed the inspection results to tenant. |
+| **Aug 28, 2025** | MoldMan emailed the inspection results to tenant. High spores counts of Cladosporium were found in the living room air conditioner |
 | **Sep 2, 2025 (morning)** | Tenant met **Isiah** (building staff) in person to discuss issue; sent follow-up email the same morning (see `Gmail - Habitability Concerns – Request for Remedy.pdf`). |
 | **Sep 2, 2025 (12:28 PM)** | Tenant replied to old maintenance ticket stating preference for **professional mold remediation** rather than maintenance staff (see `Gmail - New Work Order Received.pdf`). |
 | **Sep 2, 2025 (shortly after)** | Before receiving response, maintenance entered the apartment and **removed moldy insulation** without consent. The incident was recorded on video (`MaintainenceRecordings/2025-09-02.mov`). Tenant concerned this may have spread spores. |

@@ -14,4 +14,4 @@ ________
 
 Wednesay, Oct 8, 2025
 
-Contacted Joan M. Fenstermaker and Brabender Law. Whoever calls me first wins
+Contacted Joan M. Fenstermaker and Brabender Law.
